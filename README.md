@@ -8,8 +8,8 @@ I'm not a wordpress developer, not even a wordpress lover! (not yet). I just wro
 ## Languages
 The funny thing is that this plugin has its own language engine :D
 
-* Make a folder based on your WP language (e.g. en\_US, fr\_FR) and place that in `language` folder.
-* Make a copy of `lang.php` from 'language/fa_IR/' folder and paste that in yours.
+* Make a folder based on your WP language (e.g. `en_US`, `fr_FR`) and place that in `language` folder.
+* Make a copy of `lang.php` from `language/fa_IR/` folder and paste that in yours.
 * Edit `lang.php` and do what ever you want ;)
 
 ### Creating
