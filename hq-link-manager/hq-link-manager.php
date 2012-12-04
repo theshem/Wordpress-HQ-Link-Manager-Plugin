@@ -3,8 +3,8 @@
 Copyright (c) 2012 Hashem Qolami. (http://qolami.com)
 
 Plugin Name: HQ Link Manager
-Plugin URI: http://wordpress.org/extend/plugins/
-Description: Adding desirable attributes to the external links.
+Plugin URI: https://github.com/qolami/Wordpress-HQ-Link-Manager-Plugin/
+Description: Adding favorite attributes to the external links.
 
 Version: 1.0 rc1
 Author: Hashem Qolami
